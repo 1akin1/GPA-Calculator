@@ -32,3 +32,7 @@ Click "Generate Fields" to create input fields.
 Fill in the grade and credit hours for each course.
 
 Click "Calculate GPA" to get the final GPA.
+
+👨‍💻 Author
+
+1akin1
