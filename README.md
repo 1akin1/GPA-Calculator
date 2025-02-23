@@ -1,6 +1,7 @@
 # GPA-Calculator
 
 📌 Overview
+
 This is a simple GPA Calculator built using Python and Tkinter. The application allows users to enter the number of courses they have taken, input their grades and credits for each course, and calculate their weighted GPA.
 
 🛠 Requirements
